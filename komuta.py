@@ -1,0 +1,1 @@
+print("Haber okuyucu çalıştı!")
